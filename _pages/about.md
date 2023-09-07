@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='[#](https://www.childrenshospital.org/)'>Boston Children's Hospital - Harvard Medical School </a>. 300 Longwood Ave., Boston (MA), USA.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
