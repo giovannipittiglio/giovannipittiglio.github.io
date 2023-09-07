@@ -9,7 +9,7 @@ related_publications: Pittiglio2019, Barducci2019
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/mfe.PNG" title="" class="img-fluid rounded z-depth-1" max-width = "50%" %}
+        {% include figure.html path="assets/img/mfe.PNG" title="" class="img-fluid rounded z-depth-1" width = "50px" %}
     </div>
 </div>
 <div class="caption">
