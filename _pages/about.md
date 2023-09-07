@@ -2,25 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='[#](https://www.childrenshospital.org/)'>Boston Children's Hospital - Harvard Medical School </a>. 300 Longwood Ave., Boston (MA), USA.
+subtitle: <a href='https://www.childrenshospital.org/'>Boston Children's Hospital - Harvard Medical School </a>. 300 Longwood Ave., Boston (MA), USA.
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office 353</p>
+    <p>300 Longwood Ave.</p>
+    <p>Boston (MA), 02142, USA</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Giovanni Pittiglio received his B.S. in Biomedical Engineering and M.S. in Robotics and Automation from the University of Pisa, Pisa, Italy, in 2012 and 2016, respectively. He received the M. Res. in Medical Robotics and Image Guided Intervention from Imperial College of London, London, UK, in 2017. He received his Ph.D. in medical robotics in 2022 from the University of Leeds, Leeds, UK. Giovanni is currently a Research Fellow in Boston Children’s Hospital - Harvard Medical School, Boston, MA, USA. His research interests include medical robots, nonlinear control and sensing. Giovanni is received the UK Alumni Awards 2023 from the British Council for Science and Sustainability in the USA.
