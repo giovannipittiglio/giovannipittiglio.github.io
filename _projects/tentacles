@@ -5,8 +5,9 @@ description:
 img: assets/img/nature23.png
 importance: 1
 category: work
-related_publications: Pittiglio2023c, Pittiglio2021, Pittiglio2023, Pittiglio2023d
+related_publications: Pittiglio2023_c, Pittiglio2021, Pittiglio2023_b, Pittiglio2023_a
 ---
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/nature23.png" title="" class="img-fluid rounded z-depth-1" width = "250px" %}
