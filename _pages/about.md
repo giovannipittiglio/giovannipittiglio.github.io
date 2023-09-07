@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Office 353</p>
-    <p>300 Longwood Ave.</p>
+    <p>320 Longwood Ave.</p>
     <p>Boston (MA), 02142, USA</p>
 
 news: false  # includes a list of news items
