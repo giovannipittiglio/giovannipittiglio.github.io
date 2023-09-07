@@ -10,10 +10,7 @@ email: giovanni.pittiglio@childrens.harvard.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   I am a postdoctoral research fellow at Boston Chilnden's Hospital, in the Dupont's lab. My research interest is designing
   continuum robots for navigation deep in the anatomy, with the aim of diagnosis and treating cancerous tissue or faulty organs. 
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+footer_text: 
 keywords: medical robots, robotic surgery, robotics  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
