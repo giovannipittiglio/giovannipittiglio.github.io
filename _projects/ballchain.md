@@ -10,7 +10,7 @@ related_publications: Pittiglio2023_d, Pittiglio2023_e
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/icra23.png" title="" class="img-fluid rounded z-depth-1" width = "400px" %}
+        {% include figure.html path="assets/img/publication_preview/icra23.png" title="" class="img-fluid rounded z-depth-1" width = "400px" %}
     </div>
 </div>
 
