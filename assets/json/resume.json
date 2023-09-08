@@ -50,10 +50,28 @@
   ],
   "awards": [
     {
-      "title": "UK Alumni Award for Science and Sustainability",
+      "title": "UK Alumni Award for Science and Sustainability in the USA",
       "date": "2023-02-17",
       "awarder": "British Council",
-      "summary": "Awarded for outstanding results in the field of Science and sustainability to one alumni amongst the graduates from British universities within the past 15 years.'"
+      "summary": "Awarded for outstanding results in the field of Science and sustainability to one alumni amongst the graduates from British universities within the past 15 years."
+    },
+    {
+      "title": "Best paper award at the Hamlyn Symposium on Medical Robotics 2023",
+      "date": "2023-06-29",
+      "awarder": "Hamlyn Centre",
+      "summary": "Awarded for the paper: “Workspace Characterization for Hybrid Tendon and Ball Chain Continuum Robots”, G. Pittiglio, M. Mencattelli, A. Donder, Y. Chitalia, P. E. Dupont."
+    },
+    {
+      "title": "Best paper award at the International Symposium on Medical Robotics (ISMR) 2023",
+      "date": "2023-06-29",
+      "awarder": "International Symposium on Medical Robotics (ISMR)",
+      "summary": "Awarded for the paper: “Closed-form Kinematic Model and Workspace Characterization for Magnetic Ball Chain Robots”, G. Pittiglio, M. Mencattelli, P. E. Dupont."
+    },
+    {
+      "title": "KUKA Innovation Award 2019",
+      "date": "2019-11-21",
+      "awarder": "KUKA",
+      "summary": "Awarded to the project “Painless Colorectal Cancer Screening, Surveillance and Intervention with Robotic Assistance". A panel composed of 5 experts from both academia and industry awarded our team with €20000."
     }
   ],
   "certificates": [],
