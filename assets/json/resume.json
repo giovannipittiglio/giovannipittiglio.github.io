@@ -51,9 +51,29 @@
       "institution": "Imperial College London, London, UK",
       "url": "https://www.harms-lab.org/",
       "area": "Medical Robotics",
-      "studyType": "PhD",
+      "studyType": "MRes",
       "startDate": "2016-10-01",
       "endDate": "2017-09-17",
+      "score": "",
+      "courses": ""
+    },
+    {
+      "institution": "University of Pisa",
+      "url": "https://www.unipi.it/",
+      "area": "Robotics and Automation",
+      "studyType": "MSc",
+      "startDate": "2013-01-01",
+      "endDate": "2016-07-01",
+      "score": "",
+      "courses": ""
+    }
+    {
+      "institution": "University of Pisa",
+      "url": "https://www.unipi.it/",
+      "area": "Biomedical Engineering",
+      "studyType": "BSc",
+      "startDate": "2009-09-01",
+      "endDate": "2012-12-06",
       "score": "",
       "courses": ""
     }
