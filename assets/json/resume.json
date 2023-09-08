@@ -11,7 +11,7 @@
       "address": "300 Longwood Ave.",
       "postalCode": "MA 02142",
       "city": "Boston",
-      "countryCode": "US",
+      "countryCode": "USA",
       "region": "Massachusetts"
     },
     "profiles": [
@@ -44,6 +44,16 @@
       "studyType": "PhD",
       "startDate": "2018-01-01",
       "endDate": "2022-03-01",
+      "score": "",
+      "courses": ""
+    },
+    {
+      "institution": "Imperial College London, London, UK",
+      "url": "https://www.harms-lab.org/",
+      "area": "Medical Robotics",
+      "studyType": "PhD",
+      "startDate": "2016-10-01",
+      "endDate": "2017-09-17",
       "score": "",
       "courses": ""
     }
