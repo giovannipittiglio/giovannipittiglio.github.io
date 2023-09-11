@@ -3,7 +3,7 @@ layout: page
 title: Endoluminal Devices Actuated with Single Magnet
 description:
 img: assets/img/mfe.PNG
-importance: 1
+importance: 3
 category: work
 related_publications: Pittiglio2019, Barducci2019
 ---
