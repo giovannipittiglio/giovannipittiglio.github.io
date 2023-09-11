@@ -1,0 +1,17 @@
+---
+layout: post
+title:  Presentation on Ball Chain Magnetic Robots at ICRA 2023
+date: 2023-05-31 15:00:00
+description: this is what included videos could look like
+tags: presentations conferences
+categories: conferences
+---
+Here my presentation for ICRA 2023 on "Magnetic Ball Chain Robots for Endoluminal Interventions", where I introduce the concept and needs for magnetic continuum robots with 
+high magnetic content. This can revolutionize navigation deep in the anatomy. More details on the project 
+<a href='https://giovannipittiglio.github.io/projects/ballchain/'>here </a>.
+
+<div class="row mt-3">
+<div class="col-sm mt-3 mt-md-0">
+    {% include video.html path="https://youtu.be/VIL8PeXaFS0" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+</div>
+</div>
