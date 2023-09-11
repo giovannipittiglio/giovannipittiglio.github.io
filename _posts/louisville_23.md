@@ -1,0 +1,13 @@
+---
+layout: post
+title:  Invited Seminar - University of Louisville
+date: 2023-04-17 15:00:00
+description: 
+tags: presentations seminars
+categories: seminars
+---
+
+Loved being invited by my great friend and colleague Dr. Yash Chitalia to the University of Louisville to share some experience 
+in magnetic medical robots with a very warm and welcoming robotics community!
+{% include figure.html path="assets/img/louisville_23.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
