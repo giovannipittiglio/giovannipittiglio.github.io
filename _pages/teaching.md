@@ -17,7 +17,7 @@ Are you an interested in being an engineer/researcher in medical robotics? Hope 
 **Supervised master students (with Prof. Pietro Valdastri)**
 * Lavinia Barducci, <a href='https://etd.adm.unipi.it/t/etd-06292018-112751/'> Magnetic Capsule Levitation: A Novel Dynamic Control Approach </a>, University of Pisa, 2018-2019.
 * David Biegger, Design Optimization of a Magnetization Model for Soft Small-Scale Robots, Leibniz Universität Hanover, 2019.
-* Michiel Richter, “Eight Degree of Freedom Magnetic Wrench Control using Permanent Magnets", University of Twente, 2019.
+* Michiel Richter, Eight Degree of Freedom Magnetic Wrench Control using Permanent Magnets, University of Twente, 2019.
 
 **Supervised master students (with Prof. Pierre E. Dupont)**
-Fabio Leuenberger, On-going, ETH Zurich.
+* Fabio Leuenberger, On-going, ETH Zurich.
