@@ -27,12 +27,10 @@ To independently actuate multiple sections of the magnetic tentacle, I investiga
 </div>
 
 We have shown successful navigation in the bronchial tree, using real-time localization to inform supervised autonomy. Using pre-operative imaging, the magnetic tentacle is designed and fabricated to autonomously navigate 
-inside the anatomy.
+inside the anatomy. Details about the patient-specific design was published in <a href='https://www.liebertpub.com/doi/full/10.1089/soro.2021.0090'> Soft Robotics (SoRo)</a> and navigation for targeted laser therapy can be found on <a href='https://www.nature.com/articles/s44172-023-00098-9'> Nature Communications Engineering </a>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.html path="assets/video/nature.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
-
-
