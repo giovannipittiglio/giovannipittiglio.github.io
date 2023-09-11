@@ -3,10 +3,13 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Materials for courses you taught. Replace this text with your description.
-nav: false
+nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**Lecture notes for invited lecture to course in Biomechatronics**
+Lead: Prof. Peter Culmer, Year: 2021
+<a href='https://drive.google.com/uc?export=download&id=1c7rJ_bbkBipC-ll3J3oD2sIF9QXacMgv'> Download the notes </a>
 
-Organize your courses by years, topics, or universities, however you like!
+**Interview with Donat Szotak**
+Are you an interested in being an engineer/researcher in medical robotics? Hope my <a href='https://www.youtube.com/watch?v=OykmNSyJ9RE'> interview </a> can help you in making it happen!
