@@ -3,7 +3,7 @@ layout: page
 title: Magnetic Ball Chains
 description:
 img: assets/img/publication_preview/icra23.png
-importance: 1
+importance: 2
 category: work
 related_publications: Pittiglio2023_d, Pittiglio2023_e
 ---
