@@ -14,9 +14,20 @@ related_publications: Pittiglio2023_c, Pittiglio2021, Pittiglio2023_b, Pittiglio
     </div>
 </div>
 
-Navigation at a smaller scale (3-6mm lumen diameter, e.g. small bronchi), may require minimal interaction between the overall length of the endoluminal device and the surroundings (see Fig. 2). In those cases, we can naturally embed less magnetic material (due to size) and interaction with the anatomy may cause inherent loss in propelling forces. For this reason, I worked on two main aspects: embedding magnetic particles along the overall length of the tentacle (augmented magnetic content); controlling the magnetic signature (lengthwise magnetization profile) of the tentacle so that it follows the anatomy during insertion, as it reacts to the applied magnetic field. This work is described in my publications in Nature Communications Engineering1 and Soft Robotics3.
-To independently actuate multiple sections of the magnetic tentacle, I investigated the use of two robotically actuated permanent magnets. I demonstrated that this control strategy can manipulate multiple independent magnetic degrees of freedom, as described in my work on IEEE Transactions on Robotics4 and is fundamental in navigating small-scale tentacles deep in the anatomy. This work has also been presented at IEEE ICRA 2023.
-During these research projects I had the chance of being mentor of four master students, and helped several junior PhD students to bring forward their research. This research effort led to one best paper award from the University of Leeds and one best conference paper award at CRAS 2022. For my accomplishments in research in the UK and the USA, I received the prestigious UK Alumni Award for Science and Sustainability in the USA from the British Council.
+Navigation at a smaller scale (3-6mm lumen diameter, e.g. small bronchi), may require minimal interaction between the overall length of the endoluminal device and the surroundings (see Fig. 2). In those cases, we can naturally embed little magnetic material (due to size) and interaction with the anatomy may cause inherent loss in propelling forces. For this reason, I worked on two main aspects: embedding magnetic particles along the overall length of the tentacle (augmented magnetic content); controlling the magnetic signature (lengthwise magnetization profile) of the tentacle so that it follows the anatomy during insertion, as it reacts to the applied magnetic field. 
+
+To independently actuate multiple sections of the magnetic tentacle, I investigated the use of two robotically actuated permanent magnets. I demonstrated that this control strategy can manipulate multiple independent magnetic degrees of freedom, which is fundamental in navigating small-scale tentacles deep in the anatomy. In the following videos, from our work on <a href='https://ieeexplore.ieee.org/abstract/document/9911989'> IEEE Transactions on Robotics </a>, we show the results of measuring the magnetic field (on the left) and the magnetic force applied on two permanent magnets (on the right), measured using two load cells. 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/tro1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="assets/video/tro2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+
+We have shown successful navigation in the bronchial tree, using real-time localization to inform supervised autonomy. Using pre-operative imaging, the magnetic tentacle is designed and fabricated to autonomously navigate 
+inside the anatomy.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
