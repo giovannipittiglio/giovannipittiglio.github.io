@@ -1,0 +1,16 @@
+---
+layout: post
+title:  Mutiple talks at IROS 2023.
+date: 2023-09-05 15:00:00
+description: 
+tags: presentations conferences
+categories: conferences
+---
+Last week, I presented our works on magnetic continuum robots for minimally invasive surgery at the 
+<a href='https://ieee-iros.org/'> IEEE/RSJ International Conference on Intelligent Robots and Systems 
+2023(Detroit, USA) </a>.
+
+{% include figure.html path="assets/img/iros-2023-control.jpg" title="<a href='https://ieeexplore.ieee.org/abstract/document/10121625'> Closed Loop Static Control of Multi-Magnet Soft Continuum Robots 
+</a>." class="img-fluid rounded z-depth-1" width = "400px" %}
+{% include figure.html path="assets/img/iros-2023-ball.jpg" title="Hybrid Tendon and Ball Chain Continuum Robots for Enhanced Dexterity in Medical Interventions" class="img-fluid rounded z-depth-1" width = "400px" %}
+{% include figure.html path="assets/img/iros-2023-workshop.jpg" title="<a href='https://medrob-workshop.github.io/'> Workshop Debate: Data vs Model in Medical Robotics </a>" class="img-fluid rounded z-depth-1" width = "400px" %}
