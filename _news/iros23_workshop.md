@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2023-09-11 08:00:00-0400
+date: 2023-10-9 08:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Participate to our IROS 2023 workshop <a href='https://medrob-workshop.github.io/'>Debate: Data vs Model in Medical Robotics </a>!
+Great success of our IROS 2023 workshop <a href='https://medrob-workshop.github.io/'>Debate: Data vs Model in Medical Robotics </a>! Looking forward to more of these meetings.
+
+{% include figure.html path="assets/img/iros23_workshop_nabil.png" title="" class="img-fluid rounded z-depth-1" width = "400px" %}
