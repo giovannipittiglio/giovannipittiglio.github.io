@@ -6,5 +6,3 @@ related_posts: false
 ---
 
 Great success of our IROS 2023 workshop <a href='https://medrob-workshop.github.io/'>Debate: Data vs Model in Medical Robotics </a>! Looking forward to more of these meetings.
-
-{% include figure.html path="assets/img/iros23_workshop_nabil.png" title="" class="img-fluid rounded z-depth-1" width = "400px" %}
