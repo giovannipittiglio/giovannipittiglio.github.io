@@ -6,7 +6,7 @@ subtitle: <a href='https://www.childrenshospital.org/'>Boston Children's Hospita
 
 profile:
   align: right
-  image: prof_pic.png
+  image: gpittiglio.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Office 353</p>
