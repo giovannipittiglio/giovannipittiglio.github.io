@@ -50,8 +50,4 @@
       items: 
         - KUKA Innovation Award 2019
        
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Design and Control of Continuum Robots for Medical Interventions.
 
