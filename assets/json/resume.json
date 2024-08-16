@@ -1,34 +1,45 @@
 {
   "basics": {
     "name": "Giovanni Pittiglio",
-    "label": "Robotics Engineering Researcher",
+    "label": "Tenure Track Assistant Professor",
     "image": "",
-    "email": "giovanni.pittiglio@childrens.harvard.edu",
+    "email": "gpittiglio@wpi.edu",
     "phone": "",
     "url": "https://giovannipittiglio.github.io/",
     "summary": "",
     "location": {
-      "address": "300 Longwood Ave.",
-      "postalCode": "MA 02142",
-      "city": "Boston",
+      "address": "50 Prescott St",
+      "postalCode": "MA 01605",
+      "city": "Worcester",
       "countryCode": "USA",
       "region": "Massachusetts"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "giovpitt",
-        "url": "https://twitter.com/giovpitt"
+        "network": "LinkedIn",
+        "username": "Giovanni Pittiglio",
+        "url": "https://www.linkedin.com/in/giovanni-pittiglio/"
       }
     ]
   },
   "work": [
     {
+      "name": "Worcester Polytechnic Institute",
+      "position": "Tenure Track Assistant Professor",
+      "url": "https://future-lab.wpi.edu/",
+      "startDate": "2024-08-12",
+      "endDate": "",
+      "summary": "Principal Investigator at FuTURE Lab.",
+      "highlights": [
+        "Robotic Surgery"
+      ]
+    }
+    {
       "name": "Boston Children's Hospital, Harvard Medical School",
       "position": "Postdoctoral Research Fellow",
       "url": "https://robotics.tch.harvard.edu/",
       "startDate": "2022-04-01",
-      "endDate": "",
+      "endDate": "2024-08-11",
       "summary": "Development of novel continuum robots for cardiac surgery - focus on sensing and control.",
       "highlights": [
         "Robotic Surgery"
