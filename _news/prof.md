@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I founded href='https://future-lab.wpi.edu/'> FuTURE Lab at Worcester Polytechnic Institute </a>.
+I founded <a href='https://future-lab.wpi.edu/'>FuTURE Lab</a> at Worcester Polytechnic Institute </a>.
