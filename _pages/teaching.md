@@ -9,6 +9,7 @@ nav_order: 5
 
 **Biomedical Robotics (WPI BME 580/RBE 580/ME 5205) AY 2024-2025**
 <a href='https://wpi-grad.cleancatalog.net/robotics-engineering-biomedical-engineering-mechanical-engineering/bme-580rbe-580me-5205'> Course info. </a>
+
 **Robot Control (WPI RBE 502) AY 2024-2025**
 <a href='https://wpi-grad.cleancatalog.net/robotics-engineering/rbe-502'> Course info. </a>
 
